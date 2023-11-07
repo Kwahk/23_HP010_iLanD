@@ -84,6 +84,9 @@ img {
     margin: 0px;
   }
 
+  .mainservice_button img {
+    width: 64px;
+  }
   .mainservice_button {
     display: inline-block;
     width: 33.33%; /* 3개씩 정렬 */
